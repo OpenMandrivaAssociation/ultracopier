@@ -1,6 +1,6 @@
 Name:		ultracopier
-Version:	0.2.0.15
-Release:	%mkrel 2
+Version:	0.2.0.16
+Release:	%mkrel 1
 License:	GPLv3+
 Group:		File tools
 URL:		http://ultracopier.first-world.info/
