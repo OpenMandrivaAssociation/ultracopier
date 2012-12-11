@@ -50,3 +50,19 @@ desktop-file-install --vendor="" \
 %{_iconsdir}/hicolor/*/apps/%{name}.png
 
 
+
+
+%changelog
+* Wed Mar 16 2011 Stéphane Téletchéa <steletch@mandriva.org> 0.2.0.16-1mdv2011.0
++ Revision: 645473
+- update to new version 0.2.0.16
+
+* Wed Dec 08 2010 Oden Eriksson <oeriksson@mandriva.com> 0.2.0.15-2mdv2011.0
++ Revision: 615327
+- the mass rebuild of 2010.1 packages
+
+* Mon May 24 2010 Emmanuel Andry <eandry@mandriva.org> 0.2.0.15-1mdv2010.1
++ Revision: 545820
+- import ultracopier
+
+
