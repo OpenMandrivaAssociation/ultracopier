@@ -3,7 +3,7 @@ Version:	0.2.0.16
 Release:	2
 License:	GPLv3+
 Group:		File tools
-URL:		http://ultracopier.first-world.info/
+URL:		https://ultracopier.first-world.info/
 Source:		http://files.first-world.info/ultracopier/%{version}/ultracopier-src-%{version}.tar.bz2
 BuildRoot:	%_tmppath/%{name}-%{version}
 BuildRequires:	qt4-devel
